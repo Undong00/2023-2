@@ -1,0 +1,54 @@
+.air-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.air-bar__icon{
+    font-size: 20px;
+    
+}
+
+.air-bar__button button{
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.air-bar__user{
+    display: flex;
+    padding-left: 20px;
+}   
+
+
+
+.air-bar__user button{
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+
+.air-bar__user{
+    padding-left: 10px;
+
+
+}
+
+.air-bar-b{
+    display: flex;
+    
+}
+
+.air-bar__user1{
+    padding: 10px;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.air-bar__user1 button{
+    border-color: gray;
+    border-radius: 20px;
+    align-items: center;
+    padding: 6px
+}
+
