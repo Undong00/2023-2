@@ -1,0 +1,47 @@
+.air-menu{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    
+}
+
+
+.air-menu__icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.air-menu__icon i{
+    font-size: 20px;
+    margin: 4px;
+}
+
+.air-menu__icon span{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.air-menu__arrow button{
+    border-radius: 40px;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: rgba(0,0,0,0);
+}
+
+.air-menu__filter button{
+    width: 70px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgba(0,0,0,0);
+}
+
+.air-menu__filter i{
+    padding-right: 10px;
+    
+    
+}

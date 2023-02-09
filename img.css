@@ -1,0 +1,45 @@
+
+
+.air-img{
+    display: flex;
+    
+}
+
+.air-img img{
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    
+    
+    
+}
+
+article{
+    margin: 10px;
+
+    
+}
+
+.air-img__word p{
+    padding: 0px
+}
+
+
+.air-img__star{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.air-img__star span{
+    font-weight: 600;
+    
+}
+
+.air-img__star i {
+    font-weight: 200;
+    font-size: 13px;
+    
+    
+    
+}
